@@ -4,7 +4,8 @@ public class C {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("C.java");
+		int i = 10;
+		System.out.println("Hi");
 	}
 
 }
